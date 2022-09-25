@@ -22,7 +22,7 @@ env:
   REPO_BRANCH: openwrt-18.06
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: im1806-c526a.config
-  DIY_P1_SH: tongyong-diy1.sh
+  DIY_P1_SH: c526a-diy1.sh
   DIY_P2_SH: c526a-diy2.sh
   SSH_ACTIONS: false
   UPLOAD_BIN_DIR: true
