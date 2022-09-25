@@ -16,7 +16,7 @@ immortalwrt源码版本，内核为***5.4***版
 
 openwrt-Project源码版本，***openwrt-18.06***
 
-不定时更新，默认周更
+不定时更新：
 
 > `ip：192.168.1.1 密码：password`
 
