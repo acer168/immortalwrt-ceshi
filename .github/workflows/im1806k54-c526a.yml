@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: openwrt-Project
+name: im1806k54-c526a
 
 on:
   repository_dispatch:
